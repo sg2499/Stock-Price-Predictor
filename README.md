@@ -140,6 +140,13 @@ Find ticker symbols here: [Yahoo Finance](https://finance.yahoo.com/lookup)
 
 ---
 
+## 🌐 Live Demo
+You're welcome to explore the app by visiting the link provided below.
+
+👉 [Try Yourself](https://stock-price-predictor-jy9bgev2rqmw5peajgw3pf.streamlit.app/)
+
+---
+
 ## 📬 Author
 
 Created with 💙 by **Shailesh Gupta**  
