@@ -1,10 +1,9 @@
-ipykernel
 streamlit
-pandas
-numpy
-matplotlib
-seaborn
-scikit-learn
-yfinance
-datetime
 tensorflow
+pandas
+numpy<2.0
+yfinance
+matplotlib
+scikit-learn
+ipykernel
+seaborn
