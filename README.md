@@ -11,11 +11,9 @@ It allows users to visualize a company's stock data, view moving averages, and p
 
 ---
 
-## 📸 App Preview
+## 📸 UI Screenshot
 
-Below is a screenshot of the app interface:
-
-![Stock Price Predictor Screenshot](SPP.png)
+<img src="SPP App.png" width="100%" alt="Campus Placement Prediction Form UI"/>
 
 ---
 
