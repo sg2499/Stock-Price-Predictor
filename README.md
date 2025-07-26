@@ -68,7 +68,7 @@ It allows users to visualize a company's stock data, view moving averages, and p
   - `Dense(1)`
 - Trained on a **70:30 train-test split** using `Adj Close` values.
 - Scaled with `MinMaxScaler` for better convergence.
-- Final RMSE: **~4.55**
+- Final RMSE: **~2.57**
 
 ---
 
