@@ -13,7 +13,7 @@ It allows users to visualize a company's stock data, view moving averages, and p
 
 ## 📸 UI Screenshot
 
-<img src="SPP App.png" width="100%" alt="Campus Placement Prediction Form UI"/>
+<img src="SPP Final App.png" width="100%" alt="Campus Placement Prediction Form UI"/>
 
 ---
 
