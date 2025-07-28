@@ -21,13 +21,12 @@ It allows users to visualize a company's stock data, view moving averages, and p
 
 ```
 📦 Stock-Price-Predictor/
-├── app.py                        # Streamlit app with enhanced UI
-├── SPP.keras                     # Trained LSTM model for stock price prediction
-├── requirements.txt             # Required Python libraries
-├── Stock Price Prediction New.ipynb  # Full notebook for EDA, preprocessing & model training
-├── assets/
-│   └── stock_price_app_screenshot.png  # App screenshot image
-├── README.md                    # Project documentation
+├── app.py                         # Streamlit app with enhanced UI
+├── SPP.keras                      # Trained LSTM model for stock price prediction
+├── requirements.txt               # Required Python libraries
+├── Stock Price Prediction.ipynb   # Full notebook for EDA, preprocessing & model training
+├── SPP Final App.png              # App screenshot image
+├── README.md                      # Project documentation
 ```
 
 ---
